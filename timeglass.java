@@ -27,16 +27,16 @@ public class timeglass {
 			} System.out.println();
 			
 			if(i<=nr/2)
-			
+			{
 				nsp=nsp+1;
 				nst=nst-1;
 				
-			
+			]
 			else 
-				nsp=nsp-1;
+			{	nsp=nsp-1;
 				nst=nst+1;
 				
-			
+			}
 		}
 
 	}
